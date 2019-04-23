@@ -103,5 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Project's ignore list
 resources/
-output.txt
+*.txt
+*.mymemmap
